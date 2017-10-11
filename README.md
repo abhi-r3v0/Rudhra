@@ -9,3 +9,12 @@ As of now, Rudhra can:
  * Check for the existance of root access in a device. 
  * Check if there is a system hook.
  * Check for vulnerable settings.
+
+## Screenshots
+
+![alt text](Screenshots/rudhraWelcome.png)
+![alt text](Screenshots/rudhraMenu.png)
+![alt text](Screenshots/rudhraGraph.png)
+![alt text](Screenshots/rudhraVuln.png)
+![alt text](Screenshots/rudhraRoot.png)
+
